@@ -10,6 +10,13 @@ description: >-
 
 Nếu bạn là một lập trình viên Python, và muốn làm chủ data, muốn trở thành một Data Engineer, hay Data Science, đây sẽ là nơi dành cho bạn. Bạn sẽ phải cần kiến thức về lập trình \(Python\) và yêu thích xử lý dữ liệu.
 
+## TODO
+
+* [ ] Dữ liệu thô
+* [ ] Database và SQL
+* [ ] Data Pipeline, Batch vs Stream processing
+* [ ] Data warehouse
+
 ## Tài liệu
 
 Sẽ khá lâu để hocdata.com, bạn có thể tạm thời tham khảo các tài liệu về data engineer dưới đây.
