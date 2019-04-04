@@ -15,7 +15,10 @@ Nếu bạn là một lập trình viên Python, và muốn làm chủ data, mu�
 * [ ] Dữ liệu thô
 * [ ] Database và SQL
 * [ ] Data Pipeline, Batch vs Stream processing
+* [ ] Design Data Pipeline in G
 * [ ] Data warehouse
+* [ ] Word2vec
+* [ ] Deploy simple deep learning classification web app.
 * [ ] Docker / Kubernetes
 
 ## Tài liệu
@@ -24,6 +27,7 @@ Sẽ khá lâu để hocdata.com, bạn có thể tạm thời tham khảo các 
 
 * [https://jupyter4edu.github.io/jupyter-edu-book/](https://jupyter4edu.github.io/jupyter-edu-book/)
 * [Mastering Python for Data Science](http://nuovolabs.fauser.edu/~valeria/materiale-didattico/python/Packt.Mastering.Aug.2015.ISBN.1784390151.pdf)
+* [Machine Learning cơ bản](https://machinelearningcoban.com)
 * [Popular Questions about the Data Engineering Career Path](https://blog.k2datascience.com/popular-questions-about-the-data-engineering-career-path-100a4b6297e2)
 
 Thư viện, frameworks đối với lĩnh vực Data Engineer:

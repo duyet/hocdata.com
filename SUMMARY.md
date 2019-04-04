@@ -10,3 +10,9 @@
 * [Data operations](chapter-1-raw-data/data-operations.md)
 * [Tổng kết](chapter-1-raw-data/tong-ket.md)
 
+## Chương 2: Data Pipeline
+
+* [Lambda architecture](chuong-2-data-pipeline/chuong-2-data-pipeline.md)
+* [Data Pipeline trên GCP](chuong-2-data-pipeline/data-pipeline-tren-gcp.md)
+* [Data Pipeline trên AWS](chuong-2-data-pipeline/design-data-pipeline-tren-aws.md)
+
