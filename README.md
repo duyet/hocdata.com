@@ -16,6 +16,7 @@ Nếu bạn là một lập trình viên Python, và muốn làm chủ data, mu�
 * [ ] Database và SQL
 * [ ] Data Pipeline, Batch vs Stream processing
 * [ ] Data warehouse
+* [ ] Docker / Kubernetes
 
 ## Tài liệu
 
