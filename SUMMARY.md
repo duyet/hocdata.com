@@ -1,8 +1,9 @@
 # Table of contents
 
 * [Học trở thành Data Engineer](README.md)
+* [Data Engineering Roadmap](data-engineering-roadmap.md)
 
-## Chương 1: Dữ liệu thô
+## Chương 1: Dữ liệu thô <a id="chapter-1-raw-data"></a>
 
 * [Array với numpy](chapter-1-raw-data/untitled.md)
 * [Empowering data analysis with pandas](chapter-1-raw-data/pandas.md)
