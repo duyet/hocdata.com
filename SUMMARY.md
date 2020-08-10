@@ -23,3 +23,11 @@
 * [Apache Kafka](chuong-3-tools-frameworks/apache-kafka.md)
 * [Apache Airflow](chuong-3-tools-frameworks/apache-airflow.md)
 
+## Chương 4: Principles of Data-Intensive Systems
+
+* [Database System Architecture](chuong-4-principles-of-data-intensive-systems/database-system-architecture.md)
+* [Storage Formats and Indexing](chuong-4-principles-of-data-intensive-systems/storage-formats-and-indexing.md)
+* [Distributed Databases](chuong-4-principles-of-data-intensive-systems/distributed-databases.md)
+* [Cloud Systems](chuong-4-principles-of-data-intensive-systems/cloud-systems.md)
+* [Streaming Systems](chuong-4-principles-of-data-intensive-systems/streaming-systems.md)
+
