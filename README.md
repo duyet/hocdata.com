@@ -1,14 +1,14 @@
 ---
 description: >-
-  Quyển sách này với mục tiêu tổng hợp, xây dựng kiến thức cơ bản nhất đến nâng
-  cao, từng công cụ và kỹ thuật, của một Data Engineer.
+  Trang web này với mục tiêu tổng hợp, xây dựng kiến thức cơ bản nhất đến nâng
+  cao, từng công cụ và kỹ thuật, ... để trở thành Data Engineer.
 ---
 
 # Học trở thành Data Engineer
 
 ## [hocdata.com](https://hocdata.com) dành cho ai
 
-Nếu bạn là một lập trình viên Python, và muốn làm chủ data, muốn trở thành một Data Engineer, hay Data Science, đây sẽ là nơi dành cho bạn. Bạn sẽ phải cần kiến thức về lập trình \(Python\) và yêu thích xử lý dữ liệu.
+Nếu bạn là một lập trình viên Python, và muốn làm chủ data, muốn trở thành một Data Engineer, hay Data Science, đây sẽ là nơi dành cho bạn. Bạn sẽ phải cần kiến thức về lập trình \(Python, Java, Scala\) và yêu thích xử lý dữ liệu.
 
 ## TODO
 
@@ -23,7 +23,7 @@ Nếu bạn là một lập trình viên Python, và muốn làm chủ data, mu�
 
 ## Tài liệu
 
-Sẽ khá lâu để hocdata.com, bạn có thể tạm thời tham khảo các tài liệu về data engineer dưới đây.
+Sẽ khá lâu để hocdata.com hoàn th, bạn có thể tạm thời tham khảo các tài liệu về data engineer dưới đây.
 
 * [https://jupyter4edu.github.io/jupyter-edu-book/](https://jupyter4edu.github.io/jupyter-edu-book/)
 * [Mastering Python for Data Science](http://nuovolabs.fauser.edu/~valeria/materiale-didattico/python/Packt.Mastering.Aug.2015.ISBN.1784390151.pdf)
